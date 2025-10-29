@@ -20,6 +20,7 @@ Supported devices:
 - ZB-S26 / S26R2ZB - Plug
 - ZBMINI-L - Smart Switch
 - ZBMINIL2 - 2 Way Smart Switch
+- ZBMINIR2 - 2 Way Smart Switch
 - ZBMicro - Micro Zigbee USB Smart Adaptor
 - TRVZB - Thermostat
 

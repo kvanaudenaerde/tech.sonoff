@@ -1,10 +1,10 @@
 {
-  "id": "tech.sonoff",
-  "version": "0.0.43",
+  "id": "tech.sonoff.kva",
+  "version": "0.0.44",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "name": {
-    "en": "SONOFF Zigbee"
+    "en": "SONOFF Zigbee (kva)"
   },
   "description": {
     "en": "Make your lives easier and better with affordable and innovative smart products."
